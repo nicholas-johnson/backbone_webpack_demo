@@ -15,4 +15,3 @@ $(function() {
     model: cat
   });
 });
-

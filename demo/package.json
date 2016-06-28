@@ -2,6 +2,7 @@
   "name": "backbone_webpack_demo",
   "version": "1.0.0",
   "scripts": {
+    "dev": "webpack -wd"
   },
   "license": "ISC",
   "dependencies": {},

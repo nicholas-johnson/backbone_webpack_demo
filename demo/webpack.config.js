@@ -3,9 +3,8 @@ module.exports = {
   output: {
     filename: "./build/app.js",
   },
-  sourceMap: true,
   resolve: {
-    extensions: ['', '.ts', '.js']
+    extensions: ['', '.js']
   },
   module: {
     loaders: [
